@@ -18,6 +18,7 @@ export default function App() {
   const [page, setPage] = useState(1)
   const perPage = 12
 
+  
   useEffect(() => {
     (async () => {
       const cats = await fetchCategories()
