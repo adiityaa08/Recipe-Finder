@@ -27,7 +27,7 @@ You can search for recipes, browse categories, and view detailed instructions fo
 ---
 
 ## 📂 Project Structure
-
+```
 project/
 ├── node_modules/
 ├── public/
@@ -44,7 +44,7 @@ project/
 ├── package.json
 ├── vite.config.js
 └── README.md
-
+```
 
 1. **Clone the repo**
    ```bash
