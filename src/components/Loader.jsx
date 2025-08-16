@@ -12,6 +12,7 @@ export default function Loader({ count = 8 }) {
           </div>
         </div>
       ))}
+      
     </div>
   )
 }
